@@ -1,8 +1,8 @@
 #!/usr/bin/env python
-#This is the last updated version of the programm (2016.07.14.19.22)
-# The following line wait for user to input something before exit the program
+# Last updated in 2016.07.14 @ 23:05
+# Using the following command, the program wait for a user input to continue
 ok = raw_input('Please press enter to run the program...')
 print "Hello world!"
-# The following line wait for user to input something before exit the program
+# Using the following command, the programm wait for a user input before exit
 ok = raw_input('Press enter to exit...')
 exit()
